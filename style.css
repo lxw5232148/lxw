@@ -1,11 +1,14 @@
-body
-{
+body{
   background:#ffffff;
   }
 
 h1{
   text-align:center;
   color:gray;
+}
+p{
+  text-align:right;
+  color:gray
 }
 
 
